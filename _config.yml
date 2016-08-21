@@ -1,0 +1,14 @@
+layout_spectrum: 0.7238902768585831
+typography_spectrum: 0.6253379068803042
+color:
+  brandStrength: 0.0017000110819935799
+  lightness: 0.7099240736570209
+  saturation: 0.7708206090610474
+  rhythmicContrast: 0.9534905655309558
+  brandColors:
+    - '#FCFBF6'
+    - '#D2CCBF'
+    - '#907A6B'
+    - '#5F4F43'
+    - '#181411'
+name: play around
